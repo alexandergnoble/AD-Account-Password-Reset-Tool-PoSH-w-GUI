@@ -1,0 +1,30 @@
+\\filestorage\StaffDepartmentalStandard\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\User Account Management.csprojAssemblyReference.cache
+\\filestorage\StaffDepartmentalStandard\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\MainWindow.g.cs
+\\filestorage\StaffDepartmentalStandard\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\App.g.cs
+\\filestorage\StaffDepartmentalStandard\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\User Account Management_MarkupCompile.cache
+\\filestorage\StaffDepartmentalStandard\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\User Account Management_MarkupCompile.lref
+\\filestorage\StaffDepartmentalStandard\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\bin\Debug\User Account Management.exe.config
+\\filestorage\StaffDepartmentalStandard\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\bin\Debug\User Account Management.exe
+\\filestorage\StaffDepartmentalStandard\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\bin\Debug\User Account Management.pdb
+\\filestorage\StaffDepartmentalStandard\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\MainWindow.baml
+\\filestorage\StaffDepartmentalStandard\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\User Account Management.g.resources
+\\filestorage\StaffDepartmentalStandard\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\User_Account_Management.Properties.Resources.resources
+\\filestorage\StaffDepartmentalStandard\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\User Account Management.csproj.GenerateResource.cache
+\\filestorage\StaffDepartmentalStandard\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\User Account Management.csproj.CoreCompileInputs.cache
+\\filestorage\StaffDepartmentalStandard\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\User Account Management.exe
+\\filestorage\StaffDepartmentalStandard\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\User Account Management.pdb
+K:\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\bin\Debug\User Account Management.exe.config
+K:\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\bin\Debug\User Account Management.exe
+K:\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\bin\Debug\User Account Management.pdb
+K:\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\User Account Management.csprojAssemblyReference.cache
+K:\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\MainWindow.g.cs
+K:\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\App.g.cs
+K:\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\User Account Management_MarkupCompile.cache
+K:\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\User Account Management_MarkupCompile.lref
+K:\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\MainWindow.baml
+K:\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\User Account Management.g.resources
+K:\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\User_Account_Management.Properties.Resources.resources
+K:\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\User Account Management.csproj.GenerateResource.cache
+K:\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\User Account Management.csproj.CoreCompileInputs.cache
+K:\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\User Account Management.exe
+K:\Computer Services\Powershell GUI Tools\Projects\User Account Management\Visual Studio Code\User Account Management\obj\Debug\User Account Management.pdb
